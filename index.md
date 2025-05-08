@@ -18,3 +18,9 @@ import numpy as np
 import pandas as pd
 
 ```
+
+Creating a task list
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
