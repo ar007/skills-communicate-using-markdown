@@ -7,3 +7,6 @@
 
 
 Added different header sizes for reference
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
